@@ -1,0 +1,38 @@
+[OPTIONS]
+Binary TOC=No
+Binary Index=Yes
+Compatibility=1.1 or later
+Compiled file=test_project.chm
+Contents file=test_project.hhc
+Default Window=$global_main
+Default topic=Documents/topic1variabletext.htm
+Display compile progress=No
+Full-text search=Yes
+Full text search stop list file=stoplist.txt
+Index file=test_project.hhk
+Title=test project
+Language=0x409 English
+
+[WINDOWS]
+$global_main="test project","test_project.hhc","test_project.hhk","Documents/topic1variabletext.htm","Documents/topic1variabletext.htm",," ",," ",0x60520,200,0x3006,[10,10,630,530],0x0,0x0,,,0,,
+$global_proc="test project","test_project.hhc","test_project.hhk","Documents/topic1variabletext.htm","Documents/topic1variabletext.htm",," ",," ",0x40000,200,0x0,[700,10,1015,510],0x0,0x0,,,0,,
+_d2hpopup=,,,,,,,,,,,,[271,372,593,566],,0x88,,,,,
+
+[FILES]
+Documents/topic1variabletext.htm
+Documents/chapter11.htm
+Documents/topic11.htm
+Documents/chapter3.htm
+Documents/topic12.htm
+Documents/glossaryofterms.htm
+Documents/gloss_term1.htm
+Documents/gloss_term2.htm
+DocToHelp.js
+properties.xml
+LinksExt\D2H_HTML.css
+
+[MAP]
+#include test_project.h
+
+[ALIAS]
+#include test_project.ali

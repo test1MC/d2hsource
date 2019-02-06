@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<!-- Sitemap 1.0 -->
+</head>
+<body>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Topic 1Variable text">
+<param name="Local" value="Documents/topic1variabletext.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Chapter 1">
+<param name="Local" value="Documents/chapter11.htm">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Topic 1">
+<param name="Local" value="Documents/topic11.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Chapter 3">
+<param name="Local" value="Documents/chapter3.htm">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Topic 1">
+<param name="Local" value="Documents/topic12.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Glossary of Terms">
+<param name="Local" value="Documents/glossaryofterms.htm">
+</object>
+</ul>
+</body>
+</html>
